@@ -3,7 +3,7 @@
 # Overview
 
 [Tries](https://en.wikipedia.org/wiki/Trie) are my favorite data structure.
-(The [Wagner-Fischer algorithm](https://en.wikipedia.org/wiki/Wagner%E2%80%93Fischer_algorithm) to find Levenshtein-Damerau edit distance is my favorite algorithm, so as you can tell I'm a sucker for strings.)
+(The [Wagner-Fischer algorithm](https://en.wikipedia.org/wiki/Wagner%E2%80%93Fischer_algorithm) to find Levenshtein-Damerau edit distance is my favorite algorithm; as you can tell, I've got a thing for strings.)
 I find myself constantly reaching for tries to perform partial string matching,
 and sometimes it's by prefix and sometimes by suffix.
 
